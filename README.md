@@ -37,7 +37,15 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/your-leetcode-id)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
+
 ---
+
+### 🏅 Holopin Badges
+
+[![An image of @omtiwari7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omtiwari7)](https://holopin.io/@omtiwari7)
+
+---
+
 
 ⭐️ From [omtiwari](https://github.com/omtiwari)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omtiwari&theme=tokyonight)
